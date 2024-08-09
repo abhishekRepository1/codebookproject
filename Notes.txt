@@ -1,0 +1,7 @@
+<img className="rounded-t-lg w-full h-64" src="/assets/images/10001.avif" alt="" />
+**We can access the public folder directly with slash and followed by the folder path 
+  (current location might be anywhere)
+**public folder exists outside the src folder, we cannot import the files from outside the src folder
+==============================
+
+json-server --watch data/db.json --port 8000
